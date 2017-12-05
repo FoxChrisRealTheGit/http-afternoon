@@ -1,16 +1,6 @@
 {
   "blogs": [
     {
-      "id": 0,
-      "name": "Andrew Garvin",
-      "userID": 0,
-      "image": "http://delivery.gettyimages.com/xr/109072999.jpg?v=1&c=IWSAsset&k=3&d=77BFBA49EF87892102A727B1636DE2E61B7D42B8BC1F6B9121A86BE89F8F9103331E400E51A7E00DE30A760B0D811297",
-      "title": "Ode To Brennys Cow",
-      "subTitle": "A Gold-starred Haiku",
-      "text": "Hello.\n\n I'd like to tell the story of Farmer Brenny, and his cow.\n\n Years ago, in the land and time of St. Siaosi, there lived a man named Mr. Brenny. This man was a young peddler, who's only desire was to become a merchant. Though fortune did not always smile upon him, he felt deep within his heart that someday, he would do great things.\n\n On the ten and seventh day, of the seventh month, in the Year of our Lord, two thousand and seventeen, Mr. Brenny's life was about to change. He did not know this, but on this very day, he would meet Mrs. Anne Drue.\n\n Mrs. Drue was a quaint individual, who was looking for someone to run her family's farm, so that she could travel the world. Upon meeting Mr. Brenny, Anne knew that her search was over.\n\n Anne decided to approach Brennys uncle, Lord Lloyd of Alans Mill, with the intent to hire Brenny for the next seven years. Upon signing the contract, Anne and Mr. Brenny were on their way.\n\n Seven years hence, our young adventurers Anne and Mr. Brenny decided to part ways, after the Kings Captain, Lt. Jaime Robberson moved the battleground of the war to their old-town farm.\n\n\nThe end.",
-      "featured": true
-    },
-    {
       "id": 1,
       "name": "Brennon Schow",
       "userID": 2,
@@ -28,16 +18,6 @@
       "title": "What to do if you think your mentor is an alien",
       "subTitle": "It's probably Alan",
       "text": "If you think that your alien is a mentor, there are several steps to take. \n\n. Report your suspicions to Jeremy, and provide tinfoil hats for the both of you so the alien won't figure it out. \n\n. Ask them if they ate a strange food for breakfast. Aliens, attempting to blend in, will probably say yes. \n\n\n. Create a website that requires them to login and give them the username \"Alien\", and see if they react. If they react then they are an Alien. If they scream at the mention of 'React', then they are probably just an Angular-biased person. \n\n\n\n. Pepper them with questions about their life growing up on Earth. If they get nervous, report them to NASA immediately.",
-      "featured": true
-    },
-    {
-      "id": 3,
-      "name": "Jeffrey",
-      "userID": 3,
-      "image": "http://http.cat/418",
-      "title": "I'm a little Teapot",
-      "subTitle": "The Song we all Know and Love",
-      "text": "I'm a little teapot\nshort and stout\nhere is my handle\nhere is my spout\n\nWhen I get all steamed up\nhear me shout\ntip me over\nand pour me out'",
       "featured": true
     },
     {
@@ -301,6 +281,144 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "hi",
+      "img": "",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "name": "hi",
+      "img": "",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 15
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 16
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 17
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 18
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 19
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 20
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 21
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 22
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 23
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 24
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 25
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 26
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 27
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 28
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 29
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 30
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 31
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 32
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 33
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 34
+    },
+    {
+      "name": "dfghj",
+      "img": "https://lbbfinal.files.wordpress.com/2015/01/logo.gif",
+      "desc": "sdfghjmk",
+      "id": 35
     }
   ]
 }
